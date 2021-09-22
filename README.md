@@ -16,3 +16,6 @@
 "liveSassCompile.settings.generateMap": true,     
 "liveSassCompile.settings.autoprefix": ["> 1%", "last 2 versions"]   
 }
+
+Normalize:
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/modern-normalize/0.6.0/modern-normalize.min.css"/>
